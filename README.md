@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Hi, I’m Nishant Kumar Vidhu
 
 **High-Frequency Trading (HFT) Engineer | Low-Latency Systems | C++ | Market Microstructure**
@@ -48,8 +47,6 @@ I design and optimize **ultra-low latency trading systems** with a focus on **pe
 
 ## 📊 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
 
 
 ---
